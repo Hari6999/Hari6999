@@ -30,7 +30,7 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 📁 End-to-End Data Analytics Projects
 
 - Problem statement → Data → Analysis → Visualization → Insights
-- 
+
 🔹 Featured Projects
 
 - Sales Performance Analysis – SQL & Power BI
