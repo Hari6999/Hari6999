@@ -9,7 +9,7 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 - Data Visualization: Power BI, Tableau
 - Databases: MySQL
 - Other: Data Cleaning, KPI Analysis, Business Insights
-- 
+  
 🔹 What You’ll Find in This GitHub
 
 📁 SQL Projects
